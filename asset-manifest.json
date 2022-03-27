@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MatheusPiovezan/music-player/static/css/main.ec228938.chunk.css",
+    "main.js": "/MatheusPiovezan/music-player/static/js/main.bdbce447.chunk.js",
+    "main.js.map": "/MatheusPiovezan/music-player/static/js/main.bdbce447.chunk.js.map",
+    "runtime-main.js": "/MatheusPiovezan/music-player/static/js/runtime-main.f224b203.js",
+    "runtime-main.js.map": "/MatheusPiovezan/music-player/static/js/runtime-main.f224b203.js.map",
+    "static/js/2.826006cd.chunk.js": "/MatheusPiovezan/music-player/static/js/2.826006cd.chunk.js",
+    "static/js/2.826006cd.chunk.js.map": "/MatheusPiovezan/music-player/static/js/2.826006cd.chunk.js.map",
+    "index.html": "/MatheusPiovezan/music-player/index.html",
+    "static/css/main.ec228938.chunk.css.map": "/MatheusPiovezan/music-player/static/css/main.ec228938.chunk.css.map",
+    "static/js/2.826006cd.chunk.js.LICENSE.txt": "/MatheusPiovezan/music-player/static/js/2.826006cd.chunk.js.LICENSE.txt",
+    "static/media/T.97a3d48e.png": "/MatheusPiovezan/music-player/static/media/T.97a3d48e.png",
+    "static/media/logo.737fb174.svg": "/MatheusPiovezan/music-player/static/media/logo.737fb174.svg",
+    "static/media/next.f2e40fc9.svg": "/MatheusPiovezan/music-player/static/media/next.f2e40fc9.svg",
+    "static/media/pause.2e5d08b2.svg": "/MatheusPiovezan/music-player/static/media/pause.2e5d08b2.svg",
+    "static/media/play.6233e861.svg": "/MatheusPiovezan/music-player/static/media/play.6233e861.svg",
+    "static/media/previous.184d8033.svg": "/MatheusPiovezan/music-player/static/media/previous.184d8033.svg",
+    "static/media/stop.c30597e9.svg": "/MatheusPiovezan/music-player/static/media/stop.c30597e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f224b203.js",
+    "static/js/2.826006cd.chunk.js",
+    "static/css/main.ec228938.chunk.css",
+    "static/js/main.bdbce447.chunk.js"
+  ]
+}
